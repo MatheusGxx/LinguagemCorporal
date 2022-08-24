@@ -3,4 +3,4 @@
 
 
 
-<a href="https://matheusgxx.github.io/LinguagemCorporal/LC.html">Executar o Blog LC</a>
+<a href="https://matheusgxx.github.io/LinguagemCorporal/LC.html">Abrir o Blog LC</a>
