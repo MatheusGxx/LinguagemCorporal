@@ -81,7 +81,7 @@ main p{
     line-height: 2em;
 }
 main strong{
-    color: var(--cor1);
+    color: var(--cor3);
     font-weight: bolder;
 }
 main a{
@@ -149,4 +149,8 @@ img{
     left: 5%;
     width: 90%;
     height: 90%;
+}
+
+#Imagem{
+    margin-left: 30px;
 }
