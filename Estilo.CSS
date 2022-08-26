@@ -23,7 +23,8 @@ header{
     min-height: 150px; 
     text-align: center;
     background-image: linear-gradient(to bottom, var(--cor4), var(--cor3));
-    padding-top: 40px;  
+    padding-top: 40px;
+      
 }
 header > h1{
        color: white;
@@ -66,7 +67,7 @@ nav > a:hover{
 main{
     background-color: white;
     min-width: 300px;
-    max-width: 1000px;
+    max-width: 1080px;
     margin: auto;
     padding: 20px;
     box-shadow: 0px 0px 10px black;
