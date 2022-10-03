@@ -1,5 +1,5 @@
 # LinguagemCorporal
- Blog Basico de Linguagem Corporal
+ Blog Basico de Linguagem Corporal, feito com HTML e CSS
 
 
 
